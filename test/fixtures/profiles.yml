@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bio: MyText
+  age: 1
+  location: MyString
+  hobbies: MyString
+
+two:
+  bio: MyText
+  age: 1
+  location: MyString
+  hobbies: MyString
